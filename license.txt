@@ -3,6 +3,9 @@
   C. Privacy Policy
   d. security update life time
   e. one year extended warrenty
+  f. user guide
+
+
 
   A. GNU GENERAL PUBLIC LICENSE
   Version 3, 29 June 2007
