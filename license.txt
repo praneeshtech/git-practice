@@ -4,7 +4,7 @@
   d. security update life time
   e. one year extended warrenty
   f. user guide
-
+  g. version support
 
 
   A. GNU GENERAL PUBLIC LICENSE
