@@ -1,7 +1,7 @@
   A. GNU General Public License
   B. License of WinSCP Icon Set
   C. Privacy Policy
-
+  d. security update life time
 
   A. GNU GENERAL PUBLIC LICENSE
   Version 3, 29 June 2007
